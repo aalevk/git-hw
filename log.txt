@@ -1,0 +1,48 @@
+commit f60cb04babf59fad89c9d3629e3d94d09e8bb31d
+Merge: 9ff313b 6a2219a
+Author: aalevk <lev.art184@ya.ru>
+Date:   Wed Oct 7 00:18:25 2026 +0300
+
+    merge feature-b с конфликтом
+
+commit 9ff313b7de37c7336b3ce8d5c4c97a2bcb9a73ef
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 23:59:43 2026 +0300
+
+    изменнение 3 строки в main
+
+commit 31439fde8a8ca2ec5c0dde3fae745a4a9a2bdbd5
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 23:56:49 2026 +0300
+
+    gitignore
+
+commit 6a2219a95d026a53bf620abc24e9c5657c6b5921
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 23:51:37 2026 +0300
+
+    добавлен gitignore
+
+commit 4d42aee5f50e3d9784bfbc6f830bd5f79b14f62a
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 23:16:22 2026 +0300
+
+    добавление 3 строки в ветке feature-b
+
+commit 0aab27dac9deb97a9e137ee33c7628d19d631115
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 23:01:52 2026 +0300
+
+    добавление 4 строки
+
+commit 8495432f1499ce39846f9be3d4dc26e80b8c98cd
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 22:52:49 2026 +0300
+
+    добавление 3 строки
+
+commit 4b77473dd944a41dcd5a91cc6c17c3795dc7f26f
+Author: aalevk <lev.art184@ya.ru>
+Date:   Tue Oct 6 22:16:12 2026 +0300
+
+    first commit
